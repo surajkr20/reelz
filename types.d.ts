@@ -1,3 +1,4 @@
+/* eslint-disable no-var */
 import { Connection } from "mongoose";
 
 // Define a global interface for caching the MongoDB connection
