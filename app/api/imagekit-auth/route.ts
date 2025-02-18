@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-unused-vars */
 import ImageKit from "imagekit"
 import { NextResponse } from "next/server";
 
